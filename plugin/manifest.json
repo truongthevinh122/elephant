@@ -17,5 +17,5 @@
     "msparser.js",
     "msbatchparser.js"
   ],
-  "updateUrl": "https://free-addons.org/FDM/elephant-update.json"
+  "updateUrl": "https://raw.githubusercontent.com/truongthevinh122/elephant/refs/heads/dev/plugin/elephant-update.json"
 }
