@@ -1,0 +1,12 @@
+{
+    "version" : "1.1.v_custom",
+    "distributiveUrl" : "https://github.com/truongthevinh122/elephant/raw/refs/heads/dev/build/elephant.fda",
+    "versions": [
+       {
+          "version" : "1.1.23",
+          "distributiveUrl" : "https://github.com/truongthevinh122/elephant/raw/refs/heads/dev/build/elephant.fda",
+          "minApiVersion": 1,
+          "minFeaturesLevel": 1
+       }
+    ]
+  }
