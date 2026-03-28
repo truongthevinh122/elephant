@@ -7,6 +7,8 @@ Check [Free Download Manager forum](https://www.freedownloadmanager.org/board/vi
 
 Website: [free-addons.org](https://free-addons.org/).
 
+Supported sites: [YT-DLP Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+
 # Dependencies
 Free Download Manager 6.32 (or higher) is required.
 
